@@ -27,3 +27,5 @@ Install HxD and open 0000005e.app then replace `68 74 74 70 73 3A 2F 2F 6F 73 73
 If it warns you, you screwed up. Back out right now, do not save and fix your mistakes then save lmao.
 ## Ta-da
 It should work now, have fun screwing around with a couple things.
+<video src='https://github.com/SevenworksDev/Wii-Shop-Channel/assets/91027492/88e53c2e-89e0-4b54-9d45-23e4feb4143c' width='50%'/>
+
